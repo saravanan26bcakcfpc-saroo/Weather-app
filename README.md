@@ -56,6 +56,9 @@ Figma
 ## Project Structure
 <img width="450" height="500" alt="Weather app" src="https://github.com/user-attachments/assets/bbf941ba-3eb1-491a-b06f-b65f110f1fa8" />
 
+## Figma Prototype link
+
+
 ## Developed By
 Student’s Name: Saravanan.M
 BCA First year
