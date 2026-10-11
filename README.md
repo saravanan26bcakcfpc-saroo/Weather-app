@@ -57,7 +57,7 @@ Figma
 <img width="450" height="500" alt="Weather app" src="https://github.com/user-attachments/assets/bbf941ba-3eb1-491a-b06f-b65f110f1fa8" />
 
 ## Figma Prototype link
-
+https://www.figma.com/design/b7y6bA75rHZXbRTFRGenGU/Weather-app?node-id=0-1&t=dGJkA2zRS0woVjR6-1
 
 ## Developed By
 Student’s Name: Saravanan.M
